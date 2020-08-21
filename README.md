@@ -1,0 +1,2 @@
+# zhanat
+Use fetch method
